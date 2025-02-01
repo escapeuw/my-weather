@@ -1,0 +1,23 @@
+
+.screen {
+    padding: 20px 0;
+    border-radius: 20px;
+    width: 430px;
+    height: 620px;
+}
+
+.fa-solid {
+    font-size: 13px;
+}
+
+.fa-battery-full {
+    font-size: 16px;
+}
+i {
+    margin: 3px;
+}
+
+
+
+
+
